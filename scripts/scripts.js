@@ -40,6 +40,7 @@ function wrapImgsInLinks(container) {
     }
   });
 }
+alert('stage');
 
 export function moveAttributes(from, to, attributes) {
   let attrs = attributes;
