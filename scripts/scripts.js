@@ -40,7 +40,7 @@ function wrapImgsInLinks(container) {
     }
   });
 }
-
+window.alert("Dev Sites  - 21 Nov 2024 ");
 export function moveAttributes(from, to, attributes) {
   let attrs = attributes;
   if (!attrs) {
